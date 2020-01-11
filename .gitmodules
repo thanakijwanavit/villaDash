@@ -1,0 +1,3 @@
+[submodule "dash-nginx-uwsgi-docker"]
+	path = dash-nginx-uwsgi-docker
+	url = https://github.com/khannajai/dash-nginx-uwsgi-docker.git
